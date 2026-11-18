@@ -1,0 +1,1 @@
+{"description":"Legit starter web app for Abasthan Free plan - 512MB / 0.1 vCPU, zero dependencies","engines":{"node":">=18"},"main":"server.js","name":"timon-abasthan-starter","scripts":{"start":"node server.js"},"type":"commonjs","version":"1.0.0"}
